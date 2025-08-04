@@ -1,0 +1,10 @@
+# .gitignore
+.env
+ghost-db/
+ghost-content/
+*.crt
+*.key
+*.pem
+*.bak
+node_modules/
+.DS_Store
