@@ -521,7 +521,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 
-- 📧 Email: [deepu@workwithdeepak.org](mailto:deepu@workwithdeepak.org)
+- 📧 Email: [dev.workwithdeepak@gmail.com](mailto:dev.workwithdeepak@gmail.com)
 - 🐛 Issues: [GitHub Issues](https://github.com/deepumandal/ghost-blog-docker/issues)
 - 💬 Community: [Ghost Forum](https://forum.ghost.org/)
 
